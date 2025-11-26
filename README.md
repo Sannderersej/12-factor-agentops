@@ -18,7 +18,7 @@
 
 I've watched too many teams follow the same pattern: build exciting AI features, ship to production, watch it break, add manual review, bottleneck, abandon. The framework isn't the problem—the operational model is.
 
-[Gene Kim](https://www.youtube.com/watch?v=vibe-coding) and [Steve Yegge](https://www.youtube.com/watch?v=Lf9xt0hMb_U) call this moment "vibe coding"—they're documenting the DevOps movement for AI, complete with FAAFO metrics (the DORA of this era). [Dex Horthy's 12-Factor Agents](https://github.com/humanlayer/12-factor-agents) shows how to *build* these systems right.
+[Gene Kim and Steve Yegge](https://itrevolution.com/product/vibe-coding-book/) call this moment "vibe coding"—they're documenting the DevOps movement for AI, complete with FAAFO metrics (the DORA of this era). [Dex Horthy's 12-Factor Agents](https://github.com/humanlayer/12-factor-agents) shows how to *build* these systems right.
 
 **This is the SRE to their DevOps.** It's not about building—it's about operating.
 
@@ -88,7 +88,7 @@ Or see the [Workflow Guide](./docs/tutorials/workflow-guide.md) for the full pic
 
 - [12-Factor App](https://12factor.net) (Adam Wiggins) - the original methodology
 - [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) (Dex Horthy) - engineering patterns for building AI apps
-- [Vibe Coding](https://www.youtube.com/watch?v=vibe-coding) (Gene Kim & Steve Yegge) - the DevOps movement for AI
+- [Vibe Coding](https://itrevolution.com/product/vibe-coding-book/) (Gene Kim & Steve Yegge) - the DevOps movement for AI
 
 ---
 
