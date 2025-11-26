@@ -2,7 +2,30 @@
 
 **Welcome to 12-Factor AgentOps documentation!**
 
-This documentation follows the [Di\u00e1taxis](https://diataxis.fr/) framework: **Tutorials, How-To Guides, Reference, Explanation**
+This documentation follows the [Diataxis](https://diataxis.fr/) framework: **Tutorials, How-To Guides, Reference, Explanation**
+
+---
+
+## 🌐 The Ecosystem
+
+12-Factor AgentOps is one layer in a three-layer AI agent ecosystem:
+
+```
+BUILD → WORK → RUN
+
+12-Factor Agents  → Vibe Coding → 12-Factor AgentOps
+(HumanLayer)        (Gene & Steve)    (This repo)
+```
+
+| Layer | Framework | Focus |
+|-------|-----------|-------|
+| **BUILD** | [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) | Engineering patterns for building AI apps |
+| **WORK** | [Vibe Coding](https://itrevolution.com/product/vibe-coding-book/) | Methodology for working with AI agents |
+| **RUN** | **12-Factor AgentOps** (this repo) | Operational principles for reliability |
+
+**This is the SRE to their DevOps.**
+
+→ [Full ecosystem overview](./ecosystem.md)
 
 ---
 
@@ -19,7 +42,7 @@ This documentation follows the [Di\u00e1taxis](https://diataxis.fr/) framework: 
 
 ---
 
-## 📚 Documentation by Type (Di\u00e1taxis)
+## 📚 Documentation by Type (Diataxis)
 
 ### 🎓 Tutorials (Learning-Oriented)
 **Step-by-step learning paths for beginners**
@@ -160,10 +183,19 @@ Looking to achieve a specific FAAFO goal?
 
 ## 🔗 External Resources
 
+### Ecosystem
+- **Ecosystem Overview:** [./ecosystem.md](./ecosystem.md) - Where we fit
+- **Ecosystem Position:** [./explanation/ecosystem-position.md](./explanation/ecosystem-position.md) - Deep dive
+
+### Related Frameworks
+- **12-Factor App (original):** https://12factor.net - Adam Wiggins, 2011
+- **12-Factor Agents:** https://github.com/humanlayer/12-factor-agents - Dex Horthy, HumanLayer
+- **Vibe Coding:** https://itrevolution.com/product/vibe-coding-book/ - Gene Kim & Steve Yegge
+
+### Internal
 - **Main README:** [../README.md](../README.md)
 - **The 12 Factors:** [../factors/](../factors/)
-- **12-Factor App (original):** https://12factor.net
-- **Gene Kim (FAAFO):** [AI Engineer Summit 2025](./explanation/faafo-north-star.md)
+- **Gene Kim (FAAFO):** [./explanation/faafo-north-star.md](./explanation/faafo-north-star.md)
 - **Diátaxis Framework:** https://diataxis.fr/
 
 ---
