@@ -156,7 +156,7 @@ Every commit is either a throwaway snapshot or a knowledge artifact. The differe
 
 ### For Newcomers to AgentOps
 
-1. **Start:** [Four Pillars](./four-pillars.md) - Get the big picture (15 min)
+1. **Start:** [Five Pillars](./five-pillars.md) - Get the big picture (15 min)
 2. **Then:** [Five Laws](./five-laws.md) - Understand the operational principles (20 min)
 3. **Deep dive:** [Context Engineering](./context-engineering.md) - Learn the 40% rule (15 min)
 4. **Finally:** [Knowledge OS](./knowledge-os.md) - See how it all compounds (15 min)
@@ -168,7 +168,7 @@ Every commit is either a throwaway snapshot or a knowledge artifact. The differe
 1. **Deepen:** [Context Engineering](./context-engineering.md) - Optimize your workflow efficiency
 2. **Expand:** [Knowledge OS](./knowledge-os.md) - Maximize knowledge compounding
 3. **Refresh:** [Five Laws](./five-laws.md) - Ensure you're following all laws
-4. **Integrate:** [Four Pillars](./four-pillars.md) - See how everything connects
+4. **Integrate:** [Five Pillars](./five-pillars.md) - See how everything connects
 
 ### For Contributors (Building on AgentOps)
 
@@ -284,7 +284,7 @@ Community (12-factor-agentops)
 
 ### "Do I need to read all of this?"
 
-**For basic usage:** No. Read [Four Pillars](./four-pillars.md) for overview, then use agentops workflows.
+**For basic usage:** No. Read [Five Pillars](./five-pillars.md) for overview, then use agentops workflows.
 
 **For deep understanding:** Yes. All four docs provide context for why AgentOps works the way it does.
 

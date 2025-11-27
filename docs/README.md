@@ -87,13 +87,13 @@ BUILD → WORK → RUN
 - [FAAFO North Star](./explanation/faafo-north-star.md) ⭐ - Why this exists (the driving belief)
 - [Standing on Giants](./explanation/standing-on-giants.md) - How we adapted 12-Factor App, DevOps, Learning Science
 - [AI Summit Validation 2025](./explanation/ai-summit-validation-2025.md) - Industry validation from 22 technical leaders
-- [Four Pillars](./principles/five-pillars.md) - Technical foundations (detailed)
+- [Five Pillars](./principles/five-pillars.md) - Technical foundations (detailed)
 - [Five Laws](./principles/five-laws.md) - Mandatory operational principles
 - [Context Engineering](./principles/context-engineering.md) - The 40% rule explained
 - [Knowledge OS](./principles/knowledge-os.md) - Git as institutional memory
 - [Constraint-Based Engineering](./principles/constraint-based-engineering.md) - Designing within limits
-- [Scientific Foundation](./scientific-foundation.md) - Research backing the patterns
-- [Production Metrics](./production-metrics.md) - Real-world results (35% → 95%, 2.7-40x speedup)
+- [Scientific Foundation](./reference/scientific-foundation.md) - Research backing the patterns
+- [Production Metrics](./case-studies/production/metrics.md) - Real-world results (35% → 95%, 2.7-40x speedup)
 
 ---
 

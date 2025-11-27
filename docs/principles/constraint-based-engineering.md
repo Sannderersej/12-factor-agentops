@@ -569,7 +569,7 @@ Apply this to every constraint you encounter. The solutions become your factors.
 ## Further Reading
 
 **Foundations:**
-- [Four Pillars](./four-pillars.md) - The constraint classes
+- [Five Pillars](./five-pillars.md) - The constraint classes
 - [Five Laws](./five-laws.md) - The operational principles
 - [Context Engineering](./context-engineering.md) - The 40% rule in depth
 - [Knowledge OS](./knowledge-os.md) - Git as institutional memory

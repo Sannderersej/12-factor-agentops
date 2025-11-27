@@ -33,7 +33,7 @@ Welcome! Choose your path based on what you want to achieve.
 
 **Goal:** Scale AI usage across a team without chaos
 
-**Start here:** [Team Workflows Guide](team-workflows.md)
+**Start here:** [Standing on Giants](../explanation/standing-on-giants.md) (team workflows coming soon)
 - Shared pattern libraries
 - Knowledge OS for institutional memory
 - Human validation checkpoints (Factor VIII)
@@ -45,7 +45,7 @@ Welcome! Choose your path based on what you want to achieve.
 
 **Goal:** Production-grade AI systems with 99%+ reliability
 
-**Start here:** [Platform Engineering Guide](platform-engineering.md)
+**Start here:** [Platform Engineering Agent](../domain-guides/platform-engineering-agent.md)
 - Full 12-factor implementation
 - Measurement and observability (Factor V)
 - Continuous improvement (Factors IX-XII)
@@ -59,7 +59,7 @@ Welcome! Choose your path based on what you want to achieve.
 
 **Start here:** [FAAFO Philosophy](../explanation/faafo-north-star.md)
 - Why this exists (the driving belief)
-- How it connects to the Four Pillars
+- How it connects to the Five Pillars
 - Industry validation from AI Summit 2025
 
 **Then:** [Standing on Giants](../explanation/standing-on-giants.md)

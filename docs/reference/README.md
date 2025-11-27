@@ -72,7 +72,7 @@
 - Version control for knowledge work
 - Applied in: Factors I, IX, XII
 
-**[Deep dive →](../explanation/four-pillars.md)**
+**[Deep dive →](../principles/five-pillars.md)**
 
 ---
 

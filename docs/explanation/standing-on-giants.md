@@ -428,7 +428,7 @@ Together: Complete Playbook
 
 **Learn more:**
 - [FAAFO North Star](faafo-north-star.md) - Why we built this (the driving belief)
-- [Four Pillars](four-pillars.md) - Deep dive into each pillar
+- [Four Pillars](../principles/five-pillars.md) - Deep dive into each pillar
 - [AI Summit Validation](ai-summit-validation-2025.md) - Industry validation of patterns
 
 **Apply it:**
@@ -467,4 +467,4 @@ Together: Complete Playbook
 ---
 
 **Last Updated:** 2025-11-25
-**Related:** [FAAFO North Star](faafo-north-star.md) | [AI Summit Validation](ai-summit-validation-2025.md) | [Four Pillars](four-pillars.md)
+**Related:** [FAAFO North Star](faafo-north-star.md) | [AI Summit Validation](ai-summit-validation-2025.md) | [Four Pillars](../principles/five-pillars.md)

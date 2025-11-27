@@ -304,7 +304,7 @@ Track these metrics to know if you're achieving FAAFO:
 **Learn more:**
 - [Standing on Giants](standing-on-giants.md) - Where the Four Pillars come from
 - [AI Summit Validation](ai-summit-validation-2025.md) - Industry validation of patterns
-- [Four Pillars](four-pillars.md) - Technical foundations implementing FAAFO
+- [Four Pillars](../principles/five-pillars.md) - Technical foundations implementing FAAFO
 
 **Apply it:**
 - [Workflow Guide](../tutorials/workflow-guide.md) - Step-by-step implementation
@@ -320,4 +320,4 @@ Every decision, every tool, every pattern should move you closer to Fast, Ambiti
 ---
 
 **Last Updated:** 2025-11-25
-**Related:** [AI Summit Validation](ai-summit-validation-2025.md) | [Standing on Giants](standing-on-giants.md) | [Four Pillars](four-pillars.md)
+**Related:** [AI Summit Validation](ai-summit-validation-2025.md) | [Standing on Giants](standing-on-giants.md) | [Four Pillars](../principles/five-pillars.md)
